@@ -22,6 +22,7 @@ A resource monitor for iOS 26.
 
 - [Privacy Policy (EN)](./Glassmon/PRIVACY.md)
 - [Privacy Policy (ES)](./Glassmon/PRIVACY.es.md)
+
 ---
 
 ## Usage
