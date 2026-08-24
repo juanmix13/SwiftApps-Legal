@@ -17,6 +17,11 @@ A Blood Alcohol Content (BAC) estimator for iOS 26.
 - [Disclaimer (EN)](./iBreathalyser/DISCLAIMER.md)
 - [Disclaimer (ES)](./iBreathalyser/DISCLAIMER.es.md)
 
+### Glassmon
+A resource monitor for iOS 26.
+
+- [Privacy Policy (EN)](./Glassmon/PRIVACY.md)
+- [Privacy Policy (ES)](./Glassmon/PRIVACY.es.md)
 ---
 
 ## Usage
