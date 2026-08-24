@@ -67,7 +67,7 @@ Email: # Privacy Policy — iBreathalyser
 
 **Last updated:** August 2026
 **App name:** iBreathalyser
-**Developer:** Juan Miguel Durán — [TU EMAIL]
+**Developer:** Juan Miguel Durán — juanmix13@hotmail.com
 
 ---
 
