@@ -23,6 +23,15 @@ A resource monitor for iOS 26.
 - [Privacy Policy (EN)](./Glassmon/PRIVACY.md)
 - [Privacy Policy (ES)](./Glassmon/PRIVACY.es.md)
 
+### Fuentes CAM
+
+Drinking water fountain finder for cyclists in the Community of Madrid.
+
+- [Privacy Policy (EN)](https://juanmix13.github.io/SwiftApps-Legal/FuentesCAM/PRIVACY.html)
+- [Privacy Policy (ES)](https://juanmix13.github.io/SwiftApps-Legal/FuentesCAM/PRIVACY.es.html)
+- [Disclaimer (EN)](https://juanmix13.github.io/SwiftApps-Legal/FuentesCAM/DISCLAIMER.html)
+- [Disclaimer (ES)](https://juanmix13.github.io/SwiftApps-Legal/FuentesCAM/DISCLAIMER.es.html)
+
 ---
 
 ## Usage
