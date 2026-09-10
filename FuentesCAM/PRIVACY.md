@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy — Fuentes CAM
----
-
 # [SwiftApps-Legal](https://juanmix13.github.io/SwiftApps-Legal/)
 
 # Privacy Policy — Fuentes CAM
