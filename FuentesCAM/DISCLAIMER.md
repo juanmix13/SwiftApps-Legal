@@ -1,8 +1,3 @@
----
-layout: default
-title: Disclaimer & Terms of Use — Fuentes CAM
----
-
 # [SwiftApps-Legal](https://juanmix13.github.io/SwiftApps-Legal/)
 
 # Disclaimer & Terms of Use — Fuentes CAM
