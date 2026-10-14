@@ -39,7 +39,9 @@ If you uninstall the app, nothing remains anywhere.
 
 ## 4. Third-party services
 
-Glassmon does not integrate any third-party SDK. No Firebase, no Google Analytics, no Meta SDK, no AdMob, no crash reporting service. The app uses only Apple's public iOS frameworks and makes no outbound network requests.
+Glassmon does not integrate any third-party SDK. No Firebase, no Google Analytics, no Meta SDK, no AdMob, no crash reporting service. The app uses only Apple's public iOS frameworks.
+
+Glassmon makes network requests only when you use the Network Tools card, and only to the host or domain you type yourself (`apple.com` by default). The connection latency test opens a TCP connection to that host on port 443, and the DNS lookup asks your device's configured DNS resolver to resolve the name you entered. Glassmon does not send any data to servers operated by the developer, and it does not store the hosts you enter or the results.
 
 ---
 
