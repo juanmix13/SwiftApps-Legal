@@ -1,6 +1,6 @@
 # Privacy Policy — Glassmon
 
-**Last updated:** August 2026
+**Last updated:** October 2026
 **App name:** Glassmon
 **Developer:** Juan Miguel Durán — juanmix13@hotmail.com
 
@@ -8,7 +8,9 @@
 
 ## 1. Plain-English summary
 
-**Glassmon does not collect, store, transmit, sell, or share any personal data.** System metrics displayed in the app — CPU usage, memory, battery level, storage and network speed — are read locally in real time and never leave your device. There is no account, no server, no analytics, no advertising network, and no third-party SDK.
+**Glassmon does not collect, store, sell, or share any personal data, and it does not send any data to the developer or to third parties.** System metrics displayed in the app — CPU usage, memory, battery level, storage and network speed — are read locally in real time and never leave your device. There is no account, no server, no analytics, no advertising network, and no third-party SDK.
+
+The only exception is the Network Tools card, which you use voluntarily: to measure latency or resolve a name, your device connects to the host you specify, just as a web browser would. That host (and your DNS resolver) can see the IP address of your connection. Glassmon does not receive or store that information.
 
 If you uninstall the app, nothing remains anywhere.
 
@@ -23,6 +25,7 @@ If you uninstall the app, nothing remains anywhere.
 | Battery level & state | Display Battery card | Memory only | **No** |
 | Storage capacity | Display Storage card | Memory only | **No** |
 | Network interface counters | Display Network speed | Memory only | **No** |
+| Host or domain you type (Network Tools) | Measure latency and resolve DNS | Memory only | **Only to the host you specify** |
 
 ---
 
