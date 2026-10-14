@@ -39,7 +39,9 @@ Si desinstala la app, no queda nada en ningún sitio.
 
 ## 4. Servicios de terceros
 
-Glassmon no integra ningún SDK de terceros. No hay Firebase, Google Analytics, Meta SDK, AdMob ni servicio de reporte de errores. La app usa únicamente los frameworks públicos de iOS de Apple y no realiza ninguna petición de red saliente.
+Glassmon no integra ningún SDK de terceros. No hay Firebase, Google Analytics, Meta SDK, AdMob ni servicio de reporte de errores. La app usa únicamente los frameworks públicos de iOS de Apple.
+
+Glassmon solo realiza peticiones de red cuando usa la tarjeta Network Tools, y únicamente hacia el host o dominio que usted escribe (`apple.com` por defecto). La prueba de latencia abre una conexión TCP a ese host por el puerto 443, y la consulta DNS pide a su resolvedor DNS configurado que resuelva el nombre introducido. Glassmon no envía ningún dato a servidores del desarrollador y no almacena los hosts introducidos ni los resultados.
 
 ---
 
