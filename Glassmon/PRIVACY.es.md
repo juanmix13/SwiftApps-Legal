@@ -1,6 +1,6 @@
 # Política de Privacidad — Glassmon
 
-**Última actualización:** Octubre 2026
+**Última actualización:** Noviembre 2026
 **Nombre de la app:** Glassmon
 **Desarrollador:** Juan Miguel Durán — juanmix13@hotmail.com
 
@@ -66,7 +66,13 @@ Dado que la app no recopila datos personales, no existe ningún conjunto de dato
 
 ---
 
-## 8. Contacto
+## 8. Sobre esta app
+
+Glassmon es un proyecto personal de aprendizaje, desarrollado de forma independiente por Juan Miguel Durán en su tiempo libre. No está afiliado, patrocinado ni respaldado por ningún empleador o empresa.
+
+---
+
+## 9. Contacto
 
 **Juan Miguel Durán**
 Email: **juanmix13@hotmail.com**
