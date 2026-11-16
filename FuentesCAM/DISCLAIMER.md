@@ -76,7 +76,13 @@ and accepted this disclaimer. If you do not accept it, do not use the app.
 
 ---
 
-## 7. Contact
+## 7. About this project
+
+Fuentes CAM is a personal, non-commercial learning project, developed by an individual in his spare time. It is not developed on behalf of, or in connection with, any employer or organization. The app is free, contains no advertising, and generates no income.
+
+---
+
+## 8. Contact
 
 **Juan Miguel Durán**
 Email: **juanmix13@hotmail.com**
