@@ -2,7 +2,7 @@
 
 # Disclaimer & Terms of Use — Fuentes CAM
 
-**Last updated:** September 2026
+**Last updated:** November 2026
 
 > ## ⚠️ READ THIS BEFORE USING THE APPLICATION
 > Fuentes CAM provides information about drinking water fountains sourced from
