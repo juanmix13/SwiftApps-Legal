@@ -2,7 +2,7 @@
 
 # Privacy Policy — Fuentes CAM
 
-**Last updated:** September 2026
+**Last updated:** November 2026
 **App name:** Fuentes CAM
 **Developer:** Juan Miguel Durán — juanmix13@hotmail.com
 
@@ -65,7 +65,13 @@ Because the app does not collect personal data, there is no data set against whi
 
 ---
 
-## 8. Contact
+## 8. About this project
+
+Fuentes CAM is a personal, non-commercial learning project, developed by an individual in his spare time. It is not developed on behalf of, or in connection with, any employer or organization. The app is free, contains no advertising, and generates no income.
+
+---
+
+## 9. Contact
 
 **Juan Miguel Durán**
 Email: **juanmix13@hotmail.com**
