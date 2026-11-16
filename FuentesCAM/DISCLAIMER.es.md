@@ -2,7 +2,7 @@
 
 # Aviso Legal y Condiciones de Uso — Fuentes CAM
 
-**Última actualización:** septiembre 2026
+**Última actualización:** noviembre 2026
 
 > ## ⚠️ LEE ESTO ANTES DE USAR LA APLICACIÓN
 > Fuentes CAM proporciona información sobre fuentes de agua potable obtenida
@@ -79,7 +79,13 @@ y aceptado este aviso legal. Si no lo aceptas, no uses la app.
 
 ---
 
-## 7. Contacto
+## 7. Sobre este proyecto
+
+Fuentes CAM es un proyecto personal de aprendizaje, sin ánimo de lucro, desarrollado por una persona a título individual en su tiempo libre. No se desarrolla por encargo ni en relación con ningún empleador ni organización. La app es gratuita, no incluye publicidad y no genera ingresos.
+
+---
+
+## 8. Contacto
 
 **Juan Miguel Durán**
 Email: **juanmix13@hotmail.com**
