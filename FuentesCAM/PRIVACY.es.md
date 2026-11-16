@@ -2,7 +2,7 @@
 
 # Política de Privacidad — Fuentes CAM
 
-**Última actualización:** septiembre 2026
+**Última actualización:** noviembre 2026
 **Nombre de la app:** Fuentes CAM
 **Desarrollador:** Juan Miguel Durán — juanmix13@hotmail.com
 
@@ -65,7 +65,13 @@ Como la app no recoge datos personales, no existe ningún conjunto de datos sobr
 
 ---
 
-## 8. Contacto
+## 8. Sobre este proyecto
+
+Fuentes CAM es un proyecto personal de aprendizaje, sin ánimo de lucro, desarrollado por una persona a título individual en su tiempo libre. No se desarrolla por encargo ni en relación con ningún empleador ni organización. La app es gratuita, no incluye publicidad y no genera ingresos.
+
+---
+
+## 9. Contacto
 
 **Juan Miguel Durán**
 Email: **juanmix13@hotmail.com**
